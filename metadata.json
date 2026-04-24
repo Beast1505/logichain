@@ -1,0 +1,12 @@
+{
+  "name": "LogiChain: Resilient Supply AI",
+  "description": "A sophisticated logistics platform featuring real-time GPS tracking, blockchain-backed transparency, intelligent route optimization, and predictive supply chain analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "REAL_TIME_TRACKING",
+    "BLOCKCHAIN_LEDGER",
+    "PREDICTIVE_ANALYTICS"
+  ]
+}
